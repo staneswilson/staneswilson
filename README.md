@@ -1,4 +1,13 @@
 ### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">Stanes Wilson<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AlbertEinsteinTG/)
+
+ - 🛩 Instrested in Coding 😁
+- 📚 Still Studiying..😄
+- ⚡ fact: I am Noob😌
+- 📫 How to reach me: Telegram - [@AlbertEinstein_TG](https://telegram.me/AlbertEinstein_TG)-->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+
 
 ## Dev Details 👤:
 
