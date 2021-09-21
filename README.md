@@ -6,7 +6,7 @@
 😎Pne Prethekich Onummm Ilaaa</b>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=tokyonight)
 
 ## Dev Details 👤:
 
@@ -20,5 +20,3 @@
 <a href="https://t.me/toplost3"><img src="https://badgen.net/badge/report/Bugs/orange"></a>
 <a href="https://www.instagram.com/_the._.wylde__/"><img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-red"</a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staneswilson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
