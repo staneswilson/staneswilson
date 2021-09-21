@@ -16,7 +16,7 @@
 <a href="https://youtube.com/c/techattech00"><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 </p>  
 <p align="middle"
-<a href="https://t.me/toplost3"><img src="https://badgen.net/badge/%F0%9F%99%82Ask%20ME%20/Anything/green"></a>
+<a href="https://t.me/toplost3"><img src="https://img.shields.io/badge/Ask%20Me-Anything-green"></a>
 <a href="https://t.me/toplost3"><img src="https://badgen.net/badge/report/Bugs/orange"></a>
 <a href="https://www.instagram.com/_the._.wylde__/"><img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-red"</a>
 </p>
