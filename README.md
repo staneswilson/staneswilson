@@ -6,5 +6,4 @@
 😎Coding Enthusiast</b>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&theme=dark)
