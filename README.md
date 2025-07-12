@@ -6,4 +6,6 @@
 😎Coding Enthusiast</b>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staneswilson&show_icons=true&theme=dark)
+![staneswilson's Stats](https://github-readme-stats.vercel.app/api?username=staneswilson&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![staneswilson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=staneswilson&theme=highcontrast&hide_border=true)
+![staneswilson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staneswilson&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
