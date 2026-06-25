@@ -15,6 +15,9 @@
   <a href="https://github.com/staneswilson">
     <img src="https://img.shields.io/badge/GitHub-staneswilson-181717?style=flat-square&logo=github" alt="GitHub profile for Stanes Wilson" />
   </a>
+  <a href="https://www.linkedin.com/in/staneswilson/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-staneswilson-0A66C2?style=flat-square&logo=linkedin2&logoColor=white" alt="LinkedIn profile for Stanes Wilson" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20Source-Collaborator-2E7D32?style=flat-square" alt="Open source collaborator badge" />
 </p>
 
@@ -48,7 +51,7 @@ I am interested in contributing to open source projects where backend engineerin
 ## GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=staneswilson&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats for Stanes Wilson, backend developer focused on AI and data science" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=staneswilson&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats for Stanes Wilson, backend developer focused on AI and data science" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=staneswilson&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for Stanes Wilson" />
 </p>
 
@@ -63,5 +66,8 @@ Open to backend development, API development, AI/ML, data science, automation, a
 <p>
   <a href="https://github.com/staneswilson">
     <img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Connect with Stanes Wilson on GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/staneswilson/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin2&logoColor=white" alt="Connect with Stanes Wilson on LinkedIn" />
   </a>
 </p>
